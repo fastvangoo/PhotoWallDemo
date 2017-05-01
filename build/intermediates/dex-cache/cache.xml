@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vangoo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/vangoo/AndroidStudioProjects/PhotosWallDemo-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_75fe69a1f534fb246c2475c60c5f96614083f497/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vangoo/AndroidStudioProjects/PhotosWallDemo-2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e2372aa6ef91f61b5aa333c6b09032f4d9798b1">
+        <dex dex="/Users/vangoo/AndroidStudioProjects/PhotosWallDemo-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_78a6de0a5b7f0518494d467cc6aa9e45a11d69e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vangoo/AndroidStudioProjects/PhotosWallDemo-2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ae27c944c925e9d475ec8862639366da8979bbd">
+        <dex dex="/Users/vangoo/AndroidStudioProjects/PhotosWallDemo-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8b82ead35ff86acf6d59ef505a823b4608e9d4fa/classes.dex" />
+    </item>
+
+</items>
