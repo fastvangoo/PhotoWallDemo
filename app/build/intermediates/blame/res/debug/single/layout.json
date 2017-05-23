@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/vangoo/AndroidStudioProjects/PhotosWallDemo-2/app/build/intermediates/res/merged/debug/layout/fragment_gallary.xml",
+        "source": "/Users/vangoo/AndroidStudioProjects/PhotosWallDemo-2/app/src/main/res/layout/fragment_gallary.xml"
+    },
+    {
+        "merged": "/Users/vangoo/AndroidStudioProjects/PhotosWallDemo-2/app/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/Users/vangoo/AndroidStudioProjects/PhotosWallDemo-2/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/vangoo/AndroidStudioProjects/PhotosWallDemo-2/app/build/intermediates/res/merged/debug/layout/activity_next_page.xml",
+        "source": "/Users/vangoo/AndroidStudioProjects/PhotosWallDemo-2/app/src/main/res/layout/activity_next_page.xml"
+    },
+    {
+        "merged": "/Users/vangoo/AndroidStudioProjects/PhotosWallDemo-2/app/build/intermediates/res/merged/debug/layout/photo_layout.xml",
+        "source": "/Users/vangoo/AndroidStudioProjects/PhotosWallDemo-2/app/src/main/res/layout/photo_layout.xml"
+    },
+    {
+        "merged": "/Users/vangoo/AndroidStudioProjects/PhotosWallDemo-2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/vangoo/AndroidStudioProjects/PhotosWallDemo-2/app/src/main/res/layout/activity_main.xml"
+    }
+]
